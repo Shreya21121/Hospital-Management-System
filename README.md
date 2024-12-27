@@ -1,25 +1,32 @@
-Hospital Management System
-Introduction
+Hospital Management System:
+
+Introduction:
+
 The Hospital Management System is a web application designed to streamline and automate hospital administrative and operational tasks. This project facilitates efficient record-keeping and management of hospital entities, reducing human effort and paperwork while ensuring 24/7 accessibility through a user-friendly interface.
 
-Features
-Admin Modules
+Features:-
+
+Admin Modules-
+
 Dashboard: View hospital statistics, including total patients, doctors, and appointment statuses.
 Appointment Management: Accept or reject appointments and manage appointment details.
 Doctor Management: Add, update, and manage doctor profiles.
 Patient List: Access patient details and generate invoices.
-Patient Modules
+
+Patient Modules-
 Sign-In: Secure user authentication.
 Appointment Booking: Schedule appointments with doctors based on availability.
 Doctor Search: Find doctors by name, specialty, or location.
 View Appointment History: Track past appointments.
 Profile Management: Update personal details and credentials.
-Doctor Modules
+
+Doctor Modules-
 Sign-In: Secure login for doctors.
 Appointment Management: Access appointment schedules.
 Patient Details: View patient records and histories.
 Profile Management: Update doctor details and change passwords.
-Objectives
+
+Objectives-
 Efficiently manage records of patients, doctors, and appointments.
 Minimize paperwork and provide a 24/7 accessible platform.
 Enable patients to search for doctors and book appointments online.
@@ -48,12 +55,18 @@ Database: MySQL
 Screenshots
 Home Page
 <img width="553" alt="image" src="https://github.com/user-attachments/assets/4589aa21-8674-4dc8-8545-280398db539e" />
+
 Admin Login
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/be259659-beda-494e-a5b6-3a63dd39ff4a" />
+
 Admin Dashboard
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/f31654d0-7c98-4bc6-a4c6-d0cf73bdde00" />
+
 User Dashboard
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/8c1a0880-b43d-4d1e-8152-a8a36894759b" />
+
 Doctor Dashboard
-Sign-Up and Appointment Booking
-Doctor Search and Profile Management
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/85332a0a-0d55-4b6c-9b2a-991e3327782d" />
 
 Future Scope
 Implement online help and live chat with administrators.
