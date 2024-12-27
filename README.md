@@ -26,13 +26,13 @@ Enable patients to search for doctors and book appointments online.
 Allow doctors to access patient details and maintain records.
 
 Technology Stack
-1.Frontend
-2.HTML
-3.CSS
-4.PHP
-5.Backend
-6.MySQL
-7.Web Server
+1.Frontend,
+2.HTML,
+3.CSS,
+4.PHP,
+5.Backend,
+6.MySQL,
+7.Web Server,
 8.XAMPP
 
 Hardware Requirements
